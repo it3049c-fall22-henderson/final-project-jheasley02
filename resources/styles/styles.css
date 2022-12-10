@@ -21,7 +21,7 @@ h1 {
 }
 
 #game-screen {
-  border: 1px solid red;
+  border: none;
   width: 800;
   height: 600;
 }
